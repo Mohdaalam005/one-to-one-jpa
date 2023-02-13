@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: github.com.mohdaalam005.student.StudentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.983 s - in github.com.mohdaalam005.student.StudentApplicationTests
