@@ -7,7 +7,6 @@ import github.com.mohdaalam005.student.model.StudentRequest;
 import github.com.mohdaalam005.student.model.StudentResponse;
 import github.com.mohdaalam005.student.repository.CourseEntityRepository;
 import github.com.mohdaalam005.student.repository.StudentEntityRepository;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
